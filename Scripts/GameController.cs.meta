@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0ce1376bb23026429dc7da577f57d1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panelEndGame: {fileID: 1870393410342811992, guid: cec1fbd820582ab42a4c725758e48bf2, type: 3}
+  - openPanel: {fileID: 2105823173396815733, guid: 04ad689c59dfc10429ca8e9685dc6434, type: 3}
+  - MusicGame: {fileID: 8300000, guid: b60daff2b3172451fb66bb862318d65e, type: 3}
+  - GameOverClip: {fileID: 8300000, guid: 904f9bec05d324579bf3d6e82fc30caf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
